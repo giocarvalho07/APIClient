@@ -15,6 +15,8 @@ APIClient - projeto em Java e Spring Boot para criação de de uma API REST (CRU
 
 <hr>
 
+<h3> Arquitetura REST do projeto </h3>
+
 ![arquiteturaRest](https://user-images.githubusercontent.com/52415453/156294845-98fb311b-6b21-4d0b-8166-5422d375b9cd.png)
 
 
