@@ -23,3 +23,7 @@ APIClient - projeto em Java e Spring Boot para criação de de uma API REST (CRU
 <a href="https://www.postman.com/downloads/" target="_blank"> Postman Download </a>
 
 <p> Após ter todo o kit de desenvolvimento, em sua IDE configure no application properties as configs do seu banco de dados, depois execute o projeto. Faça as requisições atrvés do Postman e utilize o script JSON que já está no projeto </p>
+
+
+<h3> Arquitetura REST do projeto </h3>
+![arquiteturaRest](https://user-images.githubusercontent.com/52415453/156294638-ff96cb70-0100-4cfe-a716-3c666c6ae2d5.png)
